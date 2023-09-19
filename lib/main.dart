@@ -1,4 +1,4 @@
-// {Maternal Michael Dave C.}: {if you dont play you cant win}
+// {Maternal Michael Dave C.}: {No money No Honey}
 // {Eugene N. Manikan} : {Aanhin mo ang damo kung kinain kona ang kabayo}
 // {Julian Roman M. Zapanta : {Going gets tough tough gets going}
 // {Lirg Doan L Villarde} : {I have no enemies}
