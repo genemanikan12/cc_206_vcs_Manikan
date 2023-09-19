@@ -1,7 +1,7 @@
 
 // {Maternal Michael Dave C.}: {if you dont play you cant win}
 // {Eugene N. Manikan} : {Aanhin mo ang damo kung kinain kona ang kabayo}
-// {name2} : {quote2}
+// {Julian Roman M. Zapanta : {Going gets tough tough gets going}
 // {name3} : {quote3}
 
 import 'package:flutter/material.dart';
