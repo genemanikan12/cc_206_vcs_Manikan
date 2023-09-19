@@ -1,7 +1,8 @@
+
+// {Maternal Michael Dave C.}: {if you dont play you cant win}
 // {Eugene N. Manikan} : {Aanhin mo ang damo kung kinain kona ang kabayo}
 // {name2} : {quote2}
 // {name3} : {quote3}
-// {name4} : {quote4}
 
 import 'package:flutter/material.dart';
 
